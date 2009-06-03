@@ -1,0 +1,4 @@
+- apply rails template to this project
+- use standard webrat steps to implement features
+- think about developing a useful feature set
+- perhaps use this application to examine cucumber rake task bug
